@@ -1,0 +1,5 @@
+C:\КУрсач\Test\Test\x64\Debug\Test.vcxproj.AssemblyReference.cache
+C:\КУрсач\Test\Test\x64\Debug\Test.MyForm.resources
+C:\КУрсач\Test\Test\x64\Debug\Test.MyForm1.resources
+C:\КУрсач\Test\Test\x64\Debug\Test.MyForm2.resources
+C:\КУрсач\Test\Test\x64\Debug\Test.vcxproj.GenerateResource.cache
